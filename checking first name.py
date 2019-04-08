@@ -1,6 +1,6 @@
 name=input("Enter the name : ")
-fname=input("Enterthe first name : ")
-if fname in name:
+f_name=input("Enter the first name : ")
+if f_name in name:
     print("True")
 else:
     print("False")
